@@ -1,0 +1,27 @@
+p {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+  }
+  
+  .signup-btn {
+    padding: 10px 20px; 
+    background-color: green;
+    color: white; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    font-weight: bold; 
+    text-align: center;
+  }
+  
+  /* Hover effect */
+  .signup-btn:hover {
+    background-color: #218838; /* Darker green on hover */
+    cursor: pointer; /* Change cursor to pointer on hover */
+  }
+  

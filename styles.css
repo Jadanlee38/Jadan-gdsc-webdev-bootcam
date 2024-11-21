@@ -19,9 +19,3 @@ header {
     text-align: center;
   }
   
-  /* Hover effect */
-  .signup-btn:hover {
-    background-color: #218838; /* Darker green on hover */
-    cursor: pointer; /* Change cursor to pointer on hover */
-  }
-  
